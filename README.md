@@ -2,7 +2,7 @@
 
 I've been a crypto user since 2020, taking some interest in DeFi, and previously worked for Yearn Finance, doing technical writing and translation.
 
-In 2022, I discovered Code4rena and have been part-timing on-and-off some of the contests, as well as other platforms such as Hats Finance/Cantina. In 2024 I finished my B.Sc in Computer Engineering and since 2025 I've returned to work with security research full time. I have also participated in some of the Secureum challenges, placing in the top 10 on RACE-12, as well as top twice 20 on Secureum’s RACE-29 and RACE-10.
+In 2022, I discovered Code4rena and have been part-timing on-and-off some of the contests, as well as other platforms such as Hats Finance/Cantina. Since 2025 I've returned to work with security research full time. I have also participated in some of the Secureum challenges, placing in the top 10 on RACE-12, as well as top twice 20 on Secureum’s RACE-29 and RACE-10. 
 
 # Highlights
 
