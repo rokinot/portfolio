@@ -2,13 +2,13 @@
 
 I've been a crypto user since 2020, taking some interest in DeFi, and previously worked for Yearn Finance, doing technical writing and translation.
 
-In 2022, I discovered Code4rena and have been part-timing on-and-off some of the contests, as well as other platforms such as Hats Finance/Cantina. Since 2025 I've returned to work with security research full time. I have also participated in some of the Secureum challenges, placing in the top 10 on RACE-12, as well as top twice 20 on Secureum’s RACE-29 and RACE-10. 
+In 2022, I discovered Code4rena and have been part-timing on-and-off some of the contests, as well as other platforms such as Hats Finance/Cantina and Sherlock. Since 2025 I've returned to work with security research full time, and have had some of the best performances in public competitions. I have also participated in some of the Secureum challenges, placing in the top 10 on RACE-12, as well as top twice 20 on Secureum’s RACE-29 and RACE-10. 
 
 # Highlights
 
 Some of my best performances in the public contest environment. 
 
-| Competition              | Ranking | Reward | Description |
+| Contest              | Ranking | Reward | Description |
 | :---------------- | :------: | ---- | ---- |
 | Hats Finance V2 |  #1   | $25.000 | [Submission](https://github.com/hats-finance/hats-contracts/issues/392) and [Award](https://x.com/HatsFinance/status/1591770085177397248)
 | Metropolis | #1 | $3.476,04 | [Leaderboard](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard) |
