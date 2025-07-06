@@ -11,7 +11,9 @@ Some of my best performances in the public contest environment.
 | Competition              | Ranking | Reward | Description |
 | :---------------- | :------: | ---- | ---- |
 | Hats Finance V2 |  #1   | $25.000 | [Submission](https://github.com/hats-finance/hats-contracts/issues/392) and [Award](https://x.com/HatsFinance/status/1591770085177397248)
+| Metropolis | #1 | $3.476,04 | [Leaderboard](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard) |
 | Rova | #2 | $1.187,50 | [Report](https://audits.sherlock.xyz/contests/498) |
+| Size | #4 | $171,52 | [Leaderboard](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0/leaderboard) |
 | Ion Protocol           |   #5   | $797,5 | [Leaderboard](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard) |
 | Aave DIVA Wrapper | #6 | $97,88 | [Leaderboard](https://codehawks.cyfrin.io/c/2025-01-diva/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Lodestar Finance    |  #7   | $527,7 | [Leaderboard](https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard)
