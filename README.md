@@ -2,7 +2,7 @@
 
 👋 I am rokinot, a security researcher on his last semester of a B.Sc for Computer Engineering with a strong foundations on statistics and embedded systems. 
 
-I began participating in audits contests for Code4rena as well as Hats Finance on a part time basis, then took a break to focus on my degree. Since 2025 I've began to work with security research full time on multiple platforms: Cantina, Code4rena, Sherlock, Codehawks, and have had some of the best performances in public contests in the past few months. I have [a blog](https://rokinot.github.io/) where I write about some of my best, as well as some of my favorite vulnerabilities found.
+I started doing audits contests on Code4rena for fun back in 2022. Since 2025 I've switched to work with security research full time on multiple platforms: Cantina, Code4rena, Sherlock, Codehawks, and have had some of the best performances in public contests in the past few months. I have [a blog](https://rokinot.github.io/) where I write about some of my best, as well as some of my favorite vulnerabilities found.
 
 # Highlights
 
