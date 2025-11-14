@@ -26,11 +26,11 @@ Every time I finish a review, I re-evaluate my auditing process I took, review a
 
 In 2024, I was invited by Guardian Audits to participate in the security assessment of a few protocols. I'll update their reports whenever they are published but its been a while already so who knows. 
 
-| Audit              | Report |
-| :---------------- | :------: |
-| Yes        |   Private   | 
-| jGM           |   Private   | 
-| Arg    |  Private   | 
+| Project              | Report | Description
+| :---------------- | :------: | --- |
+| Baseline |   Private   | Liquidity pool built on top of Uniswap V3 with up only price mechanics
+| jGM |   Private   | GMX integrated leveraged yield provider
+| Arg |  Private   | Trade mining that generates NFTs with a unique fee distribution through raffle
 
 # Contact
 
