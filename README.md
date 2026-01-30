@@ -16,8 +16,8 @@ Some of my best performances in the public contest environment.
 | Size | Mar/2025 | 🏅#4 | $171,52 | Shared 4th place | [Leaderboard](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0/leaderboard) |
 | Ion Protocol | Feb/2024 | 🏅#5 | $797,50 | First place excluding formal verification findings | [Leaderboard](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard) 
 | Aave DIVA Wrapper | Jan/2025 | #6 | $97,88 | First contest after a long break | [Leaderboard](https://codehawks.cyfrin.io/c/2025-01-diva/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| Megapot | Nov/2025 |  #6   | $415,19 | 4 Mediums, 3rd best QA report | [Leaderboard](https://code4rena.com/audits/2025-11-megapot) |
 | Kuru | Aug/2025 | #7 | $2.446,17 | Most recent result | [Leaderboard](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard) | 
-| Lodestar Finance | Mar/2023 |  #7   | $527,70 | Bug bounty contest with 1 medium finding | [Leaderboard](https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard) |
 | Ammalgam | Jul/2025 | #8 | $1.801,24 | Eighth place with a solo medium finding | [Leaderboard](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) 
 
 Every time I finish a review, I re-evaluate my auditing process I took, review all findings missed and assess what was missed in my methodology. 
