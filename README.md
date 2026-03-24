@@ -32,6 +32,9 @@ In 2024, I was invited by Guardian Audits to participate in the security assessm
 | jGM | Guardian Audits |  Private   | GMX integrated leveraged yield provider
 | Arg | Guardian Audits | Private   | Trade mining that generates NFTs with a unique fee distribution through raffle
 | Ostium Mit Review | Pashov Audit Group | Private | Perp DEX for both crypto and RWAs 
+| Bancor | Pashov Audit Group | Private | DEX Aggregator contract, supports trading by source and trading by target
+| Reserve Governor | Pashov Audit Group | [📝](https://github.com/pashov/audits/blob/master/team/pdf/Reserve-security-review_2026-02-27.pdf) | A hybrid optimistic/pessimistic governance system for the Reserve protocol.
+
 # Contact
 
 Feel free to contact me over any of the plataforms below! I am most responsive over twitter DMs. Whenever you message me please specify what kind of business you have!
