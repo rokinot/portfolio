@@ -13,7 +13,6 @@ Some of my best performances in the public contest environment.
 | Hats Finance V2 | Oct/2022 |  🥇#1   | $25.000,00 | Hats Finance's 1st bug bounty competition, found the one and only valid high | [Submission](https://github.com/hats-finance/hats-contracts/issues/392) and [Award](https://x.com/HatsFinance/status/1591770085177397248)
 | Metropolis | May/2025 | 🥇#1 | $3.476,04 | First place with a critical bug with only one duplicate | [Leaderboard](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard)
 | Rova | Feb/2025| 🥈#2 | $1.187,50 | First contest on Sherlock | [Report](https://audits.sherlock.xyz/contests/498) |
-| Size | Mar/2025 | 🏅#4 | $171,52 | Shared 4th place | [Leaderboard](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0/leaderboard) |
 | Ion Protocol | Feb/2024 | 🏅#5 | $797,50 | First place excluding formal verification findings | [Leaderboard](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard) 
 | Aave DIVA Wrapper | Jan/2025 | #6 | $97,88 | First contest after a long break | [Leaderboard](https://codehawks.cyfrin.io/c/2025-01-diva/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Megapot | Nov/2025 |  #6   | $415,19 | 4 Mediums, 3rd best QA report | [Leaderboard](https://code4rena.com/audits/2025-11-megapot) |
