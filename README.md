@@ -23,7 +23,7 @@ Every time I finish a review, I re-evaluate my auditing process I took, review a
 
 # Private work
 
-In 2024, I was invited by Guardian Audits to participate in the security assessment of a few protocols. In 2026, I worked with Pashov Audit Group for some reviews as well.
+In 2024, I was invited by Guardian Audits to participate in the security assessment of a few protocols. In 2026, I worked with Pashov Audit Group and Shieldify Security for some reviews as well.
 
 | Project           | Company   | Report | Description
 | :---------------- | :------: | :------: | --- |
@@ -33,6 +33,7 @@ In 2024, I was invited by Guardian Audits to participate in the security assessm
 | Ostium Mit Review | Pashov Audit Group | Private | Perp DEX for both crypto and RWAs 
 | Bancor | Pashov Audit Group | Private | DEX Aggregator contract, supports trading by source and trading by target
 | Reserve Governor | Pashov Audit Group | [📝](https://github.com/pashov/audits/blob/master/team/pdf/Reserve-security-review_2026-02-27.pdf) | A hybrid optimistic/pessimistic governance system for the Reserve protocol.
+| ColbX | Shieldify Security | Not available yet | Riskless-principal back-to-back atomic settlement engine |
 
 # Contact
 
