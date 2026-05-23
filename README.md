@@ -4,6 +4,8 @@
 
 I started doing audits contests on Code4rena for fun back in 2022. Since 2025 I've switched to work with security research full time on multiple platforms: Cantina, Code4rena, Sherlock, Codehawks, and have had some of the best performances in public contests in the past few months. I have [a blog](https://rokinot.github.io/) where I write about some of my best, as well as some of my favorite vulnerabilities found.
 
+I'm also currently developing rakinot, an AI smart contract security researcher
+
 # Highlights
 
 Some of my best performances in the public contest environment. 
@@ -12,7 +14,8 @@ Some of my best performances in the public contest environment.
 | :---------------- | :------: | :------: | ---- | ---- | ---- |
 | Hats Finance V2 | Oct/2022 |  🥇#1   | $25.000,00 | Hats Finance's 1st bug bounty competition, found the one and only valid high | [Submission](https://github.com/hats-finance/hats-contracts/issues/392) and [Award](https://x.com/HatsFinance/status/1591770085177397248)
 | Metropolis | May/2025 | 🥇#1 | $3.476,04 | First place with a critical bug with only one duplicate | [Leaderboard](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194/leaderboard)
-| Rova | Feb/2025| 🥈#2 | $1.187,50 | First contest on Sherlock | [Report](https://audits.sherlock.xyz/contests/498) |
+| Rova | Feb/2025 | 🥈#2 | $1.187,50 | First contest on Sherlock | [Report](https://audits.sherlock.xyz/contests/498) |
+| Revert Finance | Mar/2026 | 🏅#4 | $154.42 | Only submitted issues found by rakinot | [Leaderboard](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd/overview/leaderboard)
 | Ion Protocol | Feb/2024 | 🏅#5 | $797,50 | First place excluding formal verification findings | [Leaderboard](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard) 
 | Aave DIVA Wrapper | Jan/2025 | #6 | $97,88 | First contest after a long break | [Leaderboard](https://codehawks.cyfrin.io/c/2025-01-diva/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | Megapot | Nov/2025 |  #6   | $415,19 | 4 Mediums, 3rd best QA report | [Leaderboard](https://code4rena.com/audits/2025-11-megapot) |
