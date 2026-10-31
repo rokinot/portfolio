@@ -36,7 +36,8 @@ In 2024, I was invited by Guardian Audits to participate in the security assessm
 | Ostium Mit Review | Pashov Audit Group | Private | Perp DEX for both crypto and RWAs 
 | Bancor | Pashov Audit Group | Private | DEX Aggregator contract, supports trading by source and trading by target
 | Reserve Governor | Pashov Audit Group | [📝](https://github.com/pashov/audits/blob/master/team/pdf/Reserve-security-review_2026-02-27.pdf) | A hybrid optimistic/pessimistic governance system for the Reserve protocol.
-| ColbX | Shieldify Security | Not available yet | Riskless-principal back-to-back atomic settlement engine |
+| ColbX | Shieldify Security | Not available yet | Riskless principal back-to-back atomic settlement engine |
+| Trace | Shieldify Security | Not available yet | Fully onchain NFT Collection with sale, raffle and and offchain deterministic allocator |
 
 # Contact
 
